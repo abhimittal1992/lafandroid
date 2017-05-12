@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LostAndFound</string>
+    <string name="at_the_rate_symbol">\@</string>
+    <string name="submit">Submit</string>
+</resources>

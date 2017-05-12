@@ -1,0 +1,7 @@
+<resources>
+
+    <string-array name="activity_array">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+</resources>
