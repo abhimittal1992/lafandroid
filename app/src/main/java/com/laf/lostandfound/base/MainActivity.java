@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
-        //Simple Comment
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_activity);
 
